@@ -51,7 +51,7 @@ default_attributes:
  #If strReportWTFlag( - S_REPORT_WT_FLAG) is "Y", Wait time XML packet will be built.
  #####################################################################################
 
-  - S_REPORT_WT_FLAG: N
+  - S_REPORT_WT_FLAG: Y
 
 
 
